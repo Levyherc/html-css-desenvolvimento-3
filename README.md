@@ -10,3 +10,9 @@
   <li>A página precisa ter imagens; </li>
   <li>Use a tag de semântica textual inline. </li>
 </ol>
+<h2>
+  Para verificar como ficou acesse o link abaixo
+</h2>
+<p>
+   https://levyherc.github.io/html-css-desenvolvimento-3/
+</p>
